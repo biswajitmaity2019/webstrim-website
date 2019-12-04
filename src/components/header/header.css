@@ -1,0 +1,67 @@
+.table{
+    width: 100%;
+    display: inline-block;
+    background-color: rgba(29, 202, 202, 0.76);
+    height: 60px;
+    border: 0;
+}
+
+button{
+    text-align: center;
+    color: white ;
+    background-color:transparent ;
+    border: transparent;
+    
+}
+.td1{
+    width:30% ;
+    color: white;
+    
+}
+.webName{
+    
+
+}
+.sign{
+   
+    box-shadow:   1px 1px 1px 1px rgb(98, 191, 197);
+    background-color: rgba(92, 250, 250, 0.76);
+    text-align: center;
+    color: red;
+    text-decoration-line: none;
+    
+}
+
+.td3,.td4,.td5,.td6,.td7{
+    width: 5%;
+    padding:22px 22px 0px 22px;
+} 
+.tdLast{
+    width: 10%;
+    
+}
+
+.home{
+    cursor: pointer;
+}
+.about{
+cursor: pointer;
+}
+.service{
+cursor: pointer;
+}
+.blog{
+cursor: pointer;
+}
+.contact{
+cursor: pointer;
+}
+
+Link{
+  color: white;
+  text-underline-position: unset;
+  -ms-text-underline-position: unset;
+}
+link{
+    text-decoration-line: none;
+}

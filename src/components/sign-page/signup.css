@@ -1,0 +1,14 @@
+.link{
+   
+    
+    text-decoration-line: none;
+}
+
+.signup-contain{
+    width: 500px;
+  padding: 15px;
+  box-shadow:  0 3px 3px 3px #ccc;
+  border: 2 solid;
+  margin: 40px ;
+  display: inline-block;
+}

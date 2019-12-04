@@ -1,0 +1,4 @@
+export const NEW_USER_DATA = "NEW_USER_DATA";
+export const SEARCH_USER_DATA = "SEARCH_USER_DATA";
+export const DELETE_USER_DATA = "DELETE_USER_DATA";
+export const FORGATE_USER_DATA = "FORGATE_USER_DATA";

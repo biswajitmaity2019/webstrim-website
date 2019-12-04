@@ -1,0 +1,33 @@
+.footerBody{
+    background-color: rgba(22, 20, 20, 0.904);
+    height: 100px;
+    color: cornsilk;
+    width: 100%;
+}
+
+
+/* button{
+    width: 50px;
+    height: 50px;
+} */
+
+.facebook{
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+.linkedin{
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+.twitter{
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+.instagram{
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}

@@ -1,0 +1,21 @@
+.con-tb{
+   
+    display: inline-block;
+    
+    width: 100%;
+}
+
+.con-h1{
+    color: blue;
+}
+.con-h3{
+    color: brown;
+}
+
+.conBody-h3{
+    padding: 20px 200px 0px 200px;
+}
+
+.td-data-field{
+    padding: 50px;
+}

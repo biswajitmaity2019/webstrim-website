@@ -1,0 +1,15 @@
+.tb{
+    width: 100%;
+    background-color: rgba(241, 245, 248, 0.76);
+    height: 600px;
+    border: 0;
+    
+}
+img{
+    width: 99%;
+    height: 500px;
+}
+.p1{
+    padding: 0px 100px 0px 100px;
+    
+}
